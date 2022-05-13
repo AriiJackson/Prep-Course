@@ -267,6 +267,8 @@ function retornarPerimetro(lado){
   //Escibe una función a la cual reciba el valor del lado de un cuadrado y retorne su perímetro.
   //Escribe tu código aquí
   
+  return lado * 4;
+
 }
 
 
@@ -302,7 +304,7 @@ function esVocal(letra){
     return ('Dato incorrecto');
   }
   else if (letra == 'a' || 'e' || 'i' || 'o' || 'u') {
-    return ('Es Vocal');
+    return ('Es vocal');
   }
 
 }
