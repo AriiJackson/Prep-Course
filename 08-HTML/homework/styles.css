@@ -11,9 +11,8 @@ img {
     margin: 500px;
     background-color: bisque;
     padding: 50px;
-    border: 10px;
-    border-radius: 5%;
-    border-color: brown;
+    border: 10px solid brown;
+    border-radius: 10%;
 }
 
 #spanId {
